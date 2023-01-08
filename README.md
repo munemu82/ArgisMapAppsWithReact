@@ -1,3 +1,12 @@
+# Project details
+
+This is a project to practice and demostrate how Esri ArchGis javascript library can be integrated and used with React applications.
+The project attempt to demostrate the following capabilities:
+- Display basic map
+- Display basic map with graphic layer - basic points (represented as latitude and longitude pairs)
+- Display basic map with graphic layer - Polygon 
+- Display interactive map with user controls 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
