@@ -2,6 +2,7 @@ import Tab from 'react-bootstrap/Tab';
 import Tabs from 'react-bootstrap/Tabs';
 import React, {useState} from "react";
 import AutoComplete from "./AutoComplete"
+import WebMapView from "./WebMapView";
 
 const EditableTabs = ({tabsList, setCurrentTab, setTabIndex, activeIndex}) => {
    /// const [key, setKey] = useState('home');
